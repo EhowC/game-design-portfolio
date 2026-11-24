@@ -1,4 +1,4 @@
 # Ehow Chen's Game Design Portfolio
-*Game titles I worked on as a game designer!
+Some sample screenshots of game titles I worked on as a game designer!
 
-Work in progress.
+A work in progress.
